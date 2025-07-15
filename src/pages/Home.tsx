@@ -439,6 +439,8 @@ export default function Home() {
                   </svg>
                   LinkedIn
                 </a>
+                
+                
               </div>
             </div>
           </div>

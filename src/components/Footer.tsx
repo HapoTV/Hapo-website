@@ -73,17 +73,17 @@ export default function Footer() {
             <ul className="space-y-2">
               <li>
                 <Link to="/solutions" className="text-gray-400 hover:text-white transition-colors duration-300">
-                  Digital Displays
+                  Indoor Displays
                 </Link>
               </li>
               <li>
                 <Link to="/solutions" className="text-gray-400 hover:text-white transition-colors duration-300">
-                  LED Walls
+                  Outdoor Displays
                 </Link>
               </li>
               <li>
                 <Link to="/solutions" className="text-gray-400 hover:text-white transition-colors duration-300">
-                  Interactive Displays
+                  AI Solutions
                 </Link>
               </li>
               <li>
