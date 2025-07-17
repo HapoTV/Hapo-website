@@ -109,8 +109,8 @@ export default function Solutions() {
           "Shopping malls - Directory and promotional displays",
           "Corporate lobbies - Visitor management and information"
         ],
-        pricing: "Starting from $3,500 for basic models, $8,500 for advanced payment-enabled kiosks",
-        timeline: "2-3 weeks for standard configurations, 4-6 weeks for custom designs"
+        /*pricing: "Starting from $3,500 for basic models, $8,500 for advanced payment-enabled kiosks",
+        timeline: "2-3 weeks for standard configurations, 4-6 weeks for custom designs"*/
       }
     },
     {
@@ -154,8 +154,8 @@ export default function Solutions() {
           "Bakeries - Fresh daily specials and seasonal items",
           "Food trucks - Compact, portable menu solutions"
         ],
-        pricing: "Starting from $1,200 per display, complete systems from $2,800",
-        timeline: "1-2 weeks for installation, immediate content updates"
+        /*pricing: "Starting from $1,200 per display, complete systems from $2,800",
+        timeline: "1-2 weeks for installation, immediate content updates"*/
       }
     },
     {
@@ -199,8 +199,8 @@ export default function Solutions() {
           "Convention centers - Event and booth navigation",
           "Government buildings - Department and service location"
         ],
-        pricing: "Starting from $4,500 per kiosk, enterprise solutions from $12,000",
-        timeline: "3-4 weeks for mapping and setup, 1 week for installation"
+       /* pricing: "Starting from $4,500 per kiosk, enterprise solutions from $12,000",
+        timeline: "3-4 weeks for mapping and setup, 1 week for installation"*/
       }
     },
     {
