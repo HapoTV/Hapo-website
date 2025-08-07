@@ -460,7 +460,7 @@ export default function Solutions() {
               className="bg-white rounded-3xl overflow-hidden shadow-lg"
             >
               <img
-                src="/outdoor1.PNG"
+                src="/outDoorDsply.jpeg"
                 alt="Outdoor Displays"
                 className="w-full h-64 object-cover"
               />

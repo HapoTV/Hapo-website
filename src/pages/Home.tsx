@@ -75,20 +75,20 @@ export default function Home() {
     <div className="bg-white">
       {/* Hero Section */}
       <div 
-        className="relative min-h-[60vh] sm:h-[calc(100vh-64px)] bg-white bg-opacity-50 flex items-center overflow-hidden px-4 sm:px-0"
+        className="relative min-h-[60vh] sm:h-[calc(100vh-64px)] bg-white flex items-center overflow-hidden px-4 sm:px-0"
         style={{ 
           backgroundImage: 'url("/imgbackground copy.PNG")',
           backgroundSize: 'cover',
           backgroundPosition: 'center'
         }}
       >
-        <div className="absolute inset-0 bg-black bg-opacity-50"></div>
+        <div className="absolute inset-0 bg-white bg-opacity-90"></div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
-            className="text-white max-w-3xl text-center sm:text-left"
+            className="text-gray-900 max-w-3xl text-center sm:text-left"
           >
             <h1 className="text-5xl md:text-7xl font-bold mb-6">
               Transform Your Visual Experience
@@ -418,7 +418,7 @@ export default function Home() {
               <p className="text-lg mb-4">Follow us on social media:</p>
               <div className="flex justify-center space-x-6">
                 <a 
-                  href="https://www.instagram.com/hapo_group/" 
+                  href="https://instagram.com/hapo_technology/" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="inline-flex items-center px-4 py-2 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-lg hover:from-purple-600 hover:to-pink-600 transition-all duration-300"
@@ -429,7 +429,7 @@ export default function Home() {
                   Instagram
                 </a>
                 <a 
-                  href="https://www.linkedin.com/company/hapo-group" 
+                  href="https://www.linkedin.com/company/hapo-technology/" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors duration-300"
@@ -440,7 +440,7 @@ export default function Home() {
                   LinkedIn
                 </a>
                 <a
-                  href="https://www.tiktok.com/@hapogroup"
+                  href="https://www.tiktok.com/@hapo_technology"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center px-4 py-2 bg-black border border-white text-white rounded-lg hover:bg-white hover:text-black transition-colors duration-300"
